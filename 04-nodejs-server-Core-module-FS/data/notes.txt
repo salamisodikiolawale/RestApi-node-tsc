@@ -1,0 +1,7 @@
+  at createTSError (/usr/local/lib/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/usr/local/lib/node_modules/ts-node/src/index.ts:863:19)
+    at getOutput (/usr/local/lib/node_modules/ts-node/src/index.ts:1077:36)
+    at Object.compile (/usr/local/lib/node_modules/ts-node/src/index.ts:1433:41)
+    at Module.m._compile (/usr/local/lib/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Object.require.extensions.<computed> [as .ts] (/usr/local/lib/node_modules/ts-node/src/index.ts:1621:12)
